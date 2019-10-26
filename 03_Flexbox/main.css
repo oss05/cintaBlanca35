@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+}
+.padre{
+    margin: 0;
+    border: solid 2px blue;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    /* align-items: center;
+    justify-content: space-around; */
+    /* flex-direction: column-reverse; */
+}
+.hijo{
+    border: rgb(0, 204, 255) solid 2px;
+    height: 30%;
+    width: 8%;
+}
+.hija{
+    border: solid 2px green;
+    height: 100px;
+    width: 100px;
+}
