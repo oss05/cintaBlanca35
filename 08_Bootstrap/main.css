@@ -1,0 +1,13 @@
+.customForm{
+    width: 50%;
+}
+
+.customCarousel {
+    /* border: solid 3px #9c0e85; */
+    width: 50%;
+}
+
+.customCarouselImg {
+    height: 400px;
+    object-fit: cover;
+}
